@@ -21,15 +21,15 @@ export class StaticBgContainer extends Phaser.GameObjects.Container {
         this.staticBg_01 = new SingleStatcBgContainer(this.scene, eventEmitters, model, 'staticBg_04');
         this.staticBg_02 = new SingleStatcBgContainer(this.scene, eventEmitters, model, 'staticBg_04');
         // this.cloud = this.scene.add.image(720, 150, 'cloud').setScale(0.5);
-        // this.cloud = this.scene.physics.add.image(400, 300, 'cloud')
-        //     .setScale(0.3)
-        //     .setCircle(24, 0, 7.5)
-        //     .setVelocity(-100, 0);
+        this.cloud = this.scene.physics.add.image(400, 300, 'cloud')
+            .setScale(0.3)
+            .setCircle(24, 0, 7.5)
+            .setVelocity(-100, 0);
             
         this.staticBg_01.setPosition(0, 0);
         this.staticBg_02.setPosition(this.staticBg_01.x + this.scene.scale.width, 0);
         this.positions = [this.staticBg_01.x,this.staticBg_02.x];
-        this.add([this.staticBg_01, this.staticBg_02]);
+        this.add([this.staticBg_01, this.staticBg_02,this.cloud]);
         this.screenWidth = this.scene.scale.width;
 
         // this.x = -900;
@@ -40,13 +40,13 @@ export class StaticBgContainer extends Phaser.GameObjects.Container {
     }
 
     override update(...args: any[]): void {
-        // if (!this.cloud) {
-        //     return;
-        // }
-        // // this.cloud.x--;
-        // if (this.cloud.x < -200) {
-        //     this.cloud.x = 2200;
-        // }
+        if (!this.cloud) {
+            return;
+        }
+        // this.cloud.x--;
+        if (this.cloud.x < -200) {
+            this.cloud.x = 2200;
+        }
         // this/
         // this.scene.physics.velocityFromAngle(this.cloud.angle, 150);
 
