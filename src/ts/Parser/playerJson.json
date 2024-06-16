@@ -1,0 +1,1135 @@
+{
+   "playerJson" :{
+    "0": {
+        "Data": {
+            "GameHistory": [
+                {
+                    "RoundId": "7U7D-638201813034762087",
+                    "UtcRoundEndTime": "2023-05-20T12: 08: 53.476212Z",
+                    "Winner": {
+                        "PlayerId": "359",
+                        "PlayerName": "Down",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "DIAMONDS_SIX",
+                                                "CardCode": "2006",
+                                                "CardValue": 6,
+                                                "Color": "Red",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201812630242283",
+                    "UtcRoundEndTime": "2023-05-20T12:08:13.024232Z",
+                    "Winner": {
+                        "PlayerId": "359",
+                        "PlayerName": "Down",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "SPADES_SIX",
+                                                "CardCode": "1006",
+                                                "CardValue": 6,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201812229076755",
+                    "UtcRoundEndTime": "2023-05-20T12:07:32.9076778Z",
+                    "Winner": {
+                        "PlayerId": "357",
+                        "PlayerName": "Up",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "CLUBS_TEN",
+                                                "CardCode": "3010",
+                                                "CardValue": 10,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201811825604077",
+                    "UtcRoundEndTime": "2023-05-20T12:06:52.5604105Z",
+                    "Winner": {
+                        "PlayerId": "357",
+                        "PlayerName": "Up",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "CLUBS_QUEEN",
+                                                "CardCode": "3012",
+                                                "CardValue": 12,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201811424248653",
+                    "UtcRoundEndTime": "2023-05-20T12:06:12.4248693Z",
+                    "Winner": {
+                        "PlayerId": "358",
+                        "PlayerName": "Seven",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "SPADES_SEVEN",
+                                                "CardCode": "1007",
+                                                "CardValue": 7,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201811020767082",
+                    "UtcRoundEndTime": "2023-05-20T12:05:32.0767118Z",
+                    "Winner": {
+                        "PlayerId": "358",
+                        "PlayerName": "Seven",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "CLUBS_SEVEN",
+                                                "CardCode": "3007",
+                                                "CardValue": 7,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201810615827276",
+                    "UtcRoundEndTime": "2023-05-20T12:04:51.5827315Z",
+                    "Winner": {
+                        "PlayerId": "357",
+                        "PlayerName": "Up",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "CLUBS_NINE",
+                                                "CardCode": "3009",
+                                                "CardValue": 9,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201810208007687",
+                    "UtcRoundEndTime": "2023-05-20T12: 04: 10.800772Z",
+                    "Winner": {
+                        "PlayerId": "357",
+                        "PlayerName": "Up",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "SPADES_EIGHT",
+                                                "CardCode": "1008",
+                                                "CardValue": 8,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201809797237375",
+                    "UtcRoundEndTime": "2023-05-20T12: 03: 29.7237399Z",
+                    "Winner": {
+                        "PlayerId": "357",
+                        "PlayerName": "Up",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "HEARTS_QUEEN",
+                                                "CardCode": "4012",
+                                                "CardValue": 12,
+                                                "Color": "Red",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ],
+            "GameInfo": {
+                "GameCode": "7U7D",
+                "GameStates": 2,
+                "RoundId": "7U7D-638201813439275894",
+                "UtcRoundEndTime": "2023-05-20T12: 09: 33.9275917Z",
+                "OtherInfo": "0$0",
+                "UTCSystemCurrentTime": "2023-05-20T12: 09: 10.0031173Z"
+            },
+            "PlayerInfo": {
+                "GameCode": "7U7D",
+                "PlayerInfo": {
+                    "AuthToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJicm93c2VyX2luZm8iOiJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTY4NDYyNDcxNiwiaXBfYWRkcmVzcyI6IjE1MC4xMDcuMTkwLjQiLCJsb2dpbl9kYXRlX3RpbWUiOiIyMDIzLTA1LTIwIDE2OjQ4OjM2IiwibmFtZSI6ImRlZXBha2QiLCJuYmYiOjE0NDQ0Nzg0MDAsInBhcmVudF9pZCI6NSwicGFyZW50X2lkcyI6IiwxLDQsNSwiLCJ1c2VyX2lkIjoxNCwidXNlcl9uYW1lIjoiZGVlcGFrZCIsInVzZXJfdHlwZV9pZCI6N30.0TNJLn3TO5x2371c94Ow-ozGWK5EZjJIn68yUH58iDQ",
+                    "PlayerId": "deepakd",
+                    "Name": "deepakd",
+                    "PPic": "",
+                    "IsPlay": true,
+                    "IsBot": false,
+                    "Balance": 107590.3,
+                    "Expo": 0.0,
+                    "Pl": 0.0
+                }
+            },
+            "TopPlayers": [
+                {
+                    "PlayerId": "deepakd",
+                    "Name": "deepakd",
+                    "PPic": "",
+                    "Balance": 107590.3,
+                    "FloaterAmt": "0"
+                },
+                {
+                    "PlayerId": "7770561",
+                    "Name": "Anjali_7770565",
+                    "PPic": "http://192.46.210.33:5002/assets/avatar/bot(5).png",
+                    "Balance": 22774.0,
+                    "FloaterAmt": "990"
+                },
+                {
+                    "PlayerId": "7773042",
+                    "Name": "Manoj_7773091",
+                    "PPic": "http://192.46.210.33:5002/assets/avatar/bot(30).png",
+                    "Balance": 19100.0,
+                    "FloaterAmt": "19800"
+                },
+                {
+                    "PlayerId": "7773231",
+                    "Name": "Narendra_7773275",
+                    "PPic": "http://192.46.210.33:5002/assets/avatar/bot(32).png",
+                    "Balance": 10270.0,
+                    "FloaterAmt": "1782"
+                },
+                {
+                    "PlayerId": "7773641",
+                    "Name": "Om_7773694",
+                    "PPic": "http://192.46.210.33:5002/assets/avatar/bot(36).png",
+                    "Balance": 9488.0,
+                    "FloaterAmt": "1188"
+                },
+                {
+                    "PlayerId": "7774028",
+                    "Name": "Pradeep_7774051",
+                    "PPic": "http://192.46.210.33:5002/assets/avatar/bot(40).png",
+                    "Balance": 8700.0,
+                    "FloaterAmt": "0"
+                },
+                {
+                    "PlayerId": "7774952",
+                    "Name": "Sanjay_7774932",
+                    "PPic": "http://192.46.210.33:5002/assets/avatar/bot(49).png",
+                    "Balance": 9292.0,
+                    "FloaterAmt": "792"
+                }
+            ],
+            "TotalPlayers": 154
+        }
+    },
+    "1": {
+        "Data": {
+            "GameHistory": [
+                {
+                    "RoundId": "7U7D-638201813034762087",
+                    "UtcRoundEndTime": "2023-05-20T12: 08: 53.476212Z",
+                    "Winner": {
+                        "PlayerId": "359",
+                        "PlayerName": "Down",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "DIAMONDS_SIX",
+                                                "CardCode": "2006",
+                                                "CardValue": 6,
+                                                "Color": "Red",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201812630242283",
+                    "UtcRoundEndTime": "2023-05-20T12:08:13.024232Z",
+                    "Winner": {
+                        "PlayerId": "359",
+                        "PlayerName": "Down",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "SPADES_SIX",
+                                                "CardCode": "1006",
+                                                "CardValue": 6,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201812229076755",
+                    "UtcRoundEndTime": "2023-05-20T12:07:32.9076778Z",
+                    "Winner": {
+                        "PlayerId": "357",
+                        "PlayerName": "Up",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "CLUBS_TEN",
+                                                "CardCode": "3010",
+                                                "CardValue": 10,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201811825604077",
+                    "UtcRoundEndTime": "2023-05-20T12:06:52.5604105Z",
+                    "Winner": {
+                        "PlayerId": "357",
+                        "PlayerName": "Up",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "CLUBS_QUEEN",
+                                                "CardCode": "3012",
+                                                "CardValue": 12,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201811424248653",
+                    "UtcRoundEndTime": "2023-05-20T12:06:12.4248693Z",
+                    "Winner": {
+                        "PlayerId": "358",
+                        "PlayerName": "Seven",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "SPADES_SEVEN",
+                                                "CardCode": "1007",
+                                                "CardValue": 7,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201811020767082",
+                    "UtcRoundEndTime": "2023-05-20T12:05:32.0767118Z",
+                    "Winner": {
+                        "PlayerId": "358",
+                        "PlayerName": "Seven",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "CLUBS_SEVEN",
+                                                "CardCode": "3007",
+                                                "CardValue": 7,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201810615827276",
+                    "UtcRoundEndTime": "2023-05-20T12:04:51.5827315Z",
+                    "Winner": {
+                        "PlayerId": "357",
+                        "PlayerName": "Up",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "CLUBS_NINE",
+                                                "CardCode": "3009",
+                                                "CardValue": 9,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201810208007687",
+                    "UtcRoundEndTime": "2023-05-20T12: 04: 10.800772Z",
+                    "Winner": {
+                        "PlayerId": "357",
+                        "PlayerName": "Up",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "SPADES_EIGHT",
+                                                "CardCode": "1008",
+                                                "CardValue": 8,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201809797237375",
+                    "UtcRoundEndTime": "2023-05-20T12: 03: 29.7237399Z",
+                    "Winner": {
+                        "PlayerId": "357",
+                        "PlayerName": "Up",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "HEARTS_QUEEN",
+                                                "CardCode": "4012",
+                                                "CardValue": 12,
+                                                "Color": "Red",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ],
+            "GameInfo": {
+                "GameCode": "7U7D",
+                "GameStates": 2,
+                "RoundId": "7U7D-638201813439275894",
+                "UtcRoundEndTime": "2023-05-20T12: 09: 33.9275917Z",
+                "OtherInfo": "0$0",
+                "UTCSystemCurrentTime": "2023-05-20T12: 09: 10.0031173Z"
+            },
+            "PlayerInfo": {
+                "GameCode": "7U7D",
+                "PlayerInfo": {
+                    "AuthToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJicm93c2VyX2luZm8iOiJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTY4NDYyNDcxNiwiaXBfYWRkcmVzcyI6IjE1MC4xMDcuMTkwLjQiLCJsb2dpbl9kYXRlX3RpbWUiOiIyMDIzLTA1LTIwIDE2OjQ4OjM2IiwibmFtZSI6ImRlZXBha2QiLCJuYmYiOjE0NDQ0Nzg0MDAsInBhcmVudF9pZCI6NSwicGFyZW50X2lkcyI6IiwxLDQsNSwiLCJ1c2VyX2lkIjoxNCwidXNlcl9uYW1lIjoiZGVlcGFrZCIsInVzZXJfdHlwZV9pZCI6N30.0TNJLn3TO5x2371c94Ow-ozGWK5EZjJIn68yUH58iDQ",
+                    "PlayerId": "deepakd",
+                    "Name": "deepakd",
+                    "PPic": "",
+                    "IsPlay": true,
+                    "IsBot": false,
+                    "Balance": 107590.3,
+                    "Expo": 0.0,
+                    "Pl": 0.0
+                }
+            },
+            "TopPlayers": [
+                {
+                    "PlayerId": "deepakd",
+                    "Name": "deepakd",
+                    "PPic": "",
+                    "Balance": 107590.3,
+                    "FloaterAmt": "0"
+                },
+                {
+                    "PlayerId": "7770561",
+                    "Name": "Anjali_7770565",
+                    "PPic": "http://192.46.210.33:5002/assets/avatar/bot(5).png",
+                    "Balance": 22774.0,
+                    "FloaterAmt": "990"
+                },
+                {
+                    "PlayerId": "7773042",
+                    "Name": "Manoj_7773091",
+                    "PPic": "http://192.46.210.33:5002/assets/avatar/bot(30).png",
+                    "Balance": 19100.0,
+                    "FloaterAmt": "19800"
+                },
+                {
+                    "PlayerId": "7773231",
+                    "Name": "Narendra_7773275",
+                    "PPic": "http://192.46.210.33:5002/assets/avatar/bot(32).png",
+                    "Balance": 10270.0,
+                    "FloaterAmt": "1782"
+                },
+                {
+                    "PlayerId": "7773641",
+                    "Name": "Om_7773694",
+                    "PPic": "http://192.46.210.33:5002/assets/avatar/bot(36).png",
+                    "Balance": 9488.0,
+                    "FloaterAmt": "1188"
+                },
+                {
+                    "PlayerId": "7774028",
+                    "Name": "Pradeep_7774051",
+                    "PPic": "http://192.46.210.33:5002/assets/avatar/bot(40).png",
+                    "Balance": 8700.0,
+                    "FloaterAmt": "0"
+                },
+                {
+                    "PlayerId": "7774952",
+                    "Name": "Sanjay_7774932",
+                    "PPic": "http://192.46.210.33:5002/assets/avatar/bot(49).png",
+                    "Balance": 9292.0,
+                    "FloaterAmt": "792"
+                }
+            ],
+            "TotalPlayers": 154
+        }
+    },
+    "2": {
+        "Data": {
+            "GameHistory": [
+                {
+                    "RoundId": "7U7D-638201813034762087",
+                    "UtcRoundEndTime": "2023-05-20T12: 08: 53.476212Z",
+                    "Winner": {
+                        "PlayerId": "359",
+                        "PlayerName": "Down",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "DIAMONDS_SIX",
+                                                "CardCode": "2006",
+                                                "CardValue": 6,
+                                                "Color": "Red",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201812630242283",
+                    "UtcRoundEndTime": "2023-05-20T12:08:13.024232Z",
+                    "Winner": {
+                        "PlayerId": "359",
+                        "PlayerName": "Down",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "SPADES_SIX",
+                                                "CardCode": "1006",
+                                                "CardValue": 6,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201812229076755",
+                    "UtcRoundEndTime": "2023-05-20T12:07:32.9076778Z",
+                    "Winner": {
+                        "PlayerId": "357",
+                        "PlayerName": "Up",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "CLUBS_TEN",
+                                                "CardCode": "3010",
+                                                "CardValue": 10,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201811825604077",
+                    "UtcRoundEndTime": "2023-05-20T12:06:52.5604105Z",
+                    "Winner": {
+                        "PlayerId": "357",
+                        "PlayerName": "Up",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "CLUBS_QUEEN",
+                                                "CardCode": "3012",
+                                                "CardValue": 12,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201811424248653",
+                    "UtcRoundEndTime": "2023-05-20T12:06:12.4248693Z",
+                    "Winner": {
+                        "PlayerId": "358",
+                        "PlayerName": "Seven",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "SPADES_SEVEN",
+                                                "CardCode": "1007",
+                                                "CardValue": 7,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201811020767082",
+                    "UtcRoundEndTime": "2023-05-20T12:05:32.0767118Z",
+                    "Winner": {
+                        "PlayerId": "358",
+                        "PlayerName": "Seven",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "CLUBS_SEVEN",
+                                                "CardCode": "3007",
+                                                "CardValue": 7,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201810615827276",
+                    "UtcRoundEndTime": "2023-05-20T12:04:51.5827315Z",
+                    "Winner": {
+                        "PlayerId": "357",
+                        "PlayerName": "Up",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "CLUBS_NINE",
+                                                "CardCode": "3009",
+                                                "CardValue": 9,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201810208007687",
+                    "UtcRoundEndTime": "2023-05-20T12: 04: 10.800772Z",
+                    "Winner": {
+                        "PlayerId": "357",
+                        "PlayerName": "Up",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "SPADES_EIGHT",
+                                                "CardCode": "1008",
+                                                "CardValue": 8,
+                                                "Color": "Black",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "RoundId": "7U7D-638201809797237375",
+                    "UtcRoundEndTime": "2023-05-20T12: 03: 29.7237399Z",
+                    "Winner": {
+                        "PlayerId": "357",
+                        "PlayerName": "Up",
+                        "OtherInfo": ""
+                    },
+                    "GameCards": {
+                        "cardPositions": [
+                            {
+                                "Position": 0,
+                                "cardAssignePlayer": [
+                                    {
+                                        "PlayerId": "1",
+                                        "PlayerName": "SinglePlayer",
+                                        "IsSuspended": false,
+                                        "cardsDetails": [
+                                            {
+                                                "CardName": "HEARTS_QUEEN",
+                                                "CardCode": "4012",
+                                                "CardValue": 12,
+                                                "Color": "Red",
+                                                "gamecardvalue": 0
+                                            }
+                                        ],
+                                        "OtherInfo": 0
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ],
+            "GameInfo": {
+                "GameCode": "7U7D",
+                "GameStates": 2,
+                "RoundId": "7U7D-638201813439275894",
+                "UtcRoundEndTime": "2023-05-20T12: 09: 33.9275917Z",
+                "OtherInfo": "0$0",
+                "UTCSystemCurrentTime": "2023-05-20T12: 09: 10.0031173Z"
+            },
+            "PlayerInfo": {
+                "GameCode": "7U7D",
+                "PlayerInfo": {
+                    "AuthToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJicm93c2VyX2luZm8iOiJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTMuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTY4NDYyNDcxNiwiaXBfYWRkcmVzcyI6IjE1MC4xMDcuMTkwLjQiLCJsb2dpbl9kYXRlX3RpbWUiOiIyMDIzLTA1LTIwIDE2OjQ4OjM2IiwibmFtZSI6ImRlZXBha2QiLCJuYmYiOjE0NDQ0Nzg0MDAsInBhcmVudF9pZCI6NSwicGFyZW50X2lkcyI6IiwxLDQsNSwiLCJ1c2VyX2lkIjoxNCwidXNlcl9uYW1lIjoiZGVlcGFrZCIsInVzZXJfdHlwZV9pZCI6N30.0TNJLn3TO5x2371c94Ow-ozGWK5EZjJIn68yUH58iDQ",
+                    "PlayerId": "deepakd",
+                    "Name": "deepakd",
+                    "PPic": "",
+                    "IsPlay": true,
+                    "IsBot": false,
+                    "Balance": 107590.3,
+                    "Expo": 0.0,
+                    "Pl": 0.0
+                }
+            },
+            "TopPlayers": [
+                {
+                    "PlayerId": "deepakd",
+                    "Name": "deepakd",
+                    "PPic": "",
+                    "Balance": 107590.3,
+                    "FloaterAmt": "0"
+                },
+                {
+                    "PlayerId": "7770561",
+                    "Name": "Anjali_7770565",
+                    "PPic": "http://192.46.210.33:5002/assets/avatar/bot(5).png",
+                    "Balance": 22774.0,
+                    "FloaterAmt": "990"
+                },
+                {
+                    "PlayerId": "7773042",
+                    "Name": "Manoj_7773091",
+                    "PPic": "http://192.46.210.33:5002/assets/avatar/bot(30).png",
+                    "Balance": 19100.0,
+                    "FloaterAmt": "19800"
+                },
+                {
+                    "PlayerId": "7773231",
+                    "Name": "Narendra_7773275",
+                    "PPic": "http://192.46.210.33:5002/assets/avatar/bot(32).png",
+                    "Balance": 10270.0,
+                    "FloaterAmt": "1782"
+                },
+                {
+                    "PlayerId": "7773641",
+                    "Name": "Om_7773694",
+                    "PPic": "http://192.46.210.33:5002/assets/avatar/bot(36).png",
+                    "Balance": 9488.0,
+                    "FloaterAmt": "1188"
+                },
+                {
+                    "PlayerId": "7774028",
+                    "Name": "Pradeep_7774051",
+                    "PPic": "http://192.46.210.33:5002/assets/avatar/bot(40).png",
+                    "Balance": 8700.0,
+                    "FloaterAmt": "0"
+                },
+                {
+                    "PlayerId": "7774952",
+                    "Name": "Sanjay_7774932",
+                    "PPic": "http://192.46.210.33:5002/assets/avatar/bot(49).png",
+                    "Balance": 9292.0,
+                    "FloaterAmt": "792"
+                }
+            ],
+            "TotalPlayers": 154
+        }
+    }
+   }
+} 
